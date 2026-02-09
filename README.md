@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Dristi Gyawali
 
-<!--
-**Dristi-Gyawali/Dristi-Gyawali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Username:** Dristi-Gyawali  
+💻 **Web Developer** | 🌐 Passionate about building modern and responsive web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I am a web developer focused on creating clean, user-friendly, and responsive websites  
+- 💡 I enjoy learning new web technologies and improving my coding skills  
+- 🛠️ I love turning ideas into real-world web applications  
+
+---
+
+## 🧰 Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP / Node.js *(add or remove as needed)*  
+- **Frameworks & Libraries:** Bootstrap, React *(optional)*  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 What I'm Working On
+- Building responsive websites  
+- Practicing JavaScript and modern web frameworks  
+- Improving UI/UX design skills  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dristi-Gyawali&show_icons=true&theme=default)
+
+---
+
+## 🤝 Connect With Me
+- GitHub: [@Dristi-Gyawali](https://github.com/Dristi-Gyawali)
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
